@@ -38,5 +38,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HafizSharimSohail-py&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+<p align="center">
+
+  <a href="mailto:hafizsharims@gmail.com">
+
+    <img src="https://skillicons.dev/icons?i=gmail" />
+
+  </a>
+
+</p>
 
 ⭐ Thanks for visiting my profile!

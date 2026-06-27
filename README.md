@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Sharim
 
-<!--
-**HafizSharimSohail-py/HafizSharimSohail-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+- 🌱 I am currently learning Python.
+- 🚀 My goal is to become an AI Engineer.
+- 📚 I love learning programming and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python 🐍
+- Git
+- GitHub
+- VS Code
+
+## 📂 My Projects
+
+- Student Information System
+- Python Variables
+- Data Types
+- Operators
+
+⭐ Thanks for visiting my profile!

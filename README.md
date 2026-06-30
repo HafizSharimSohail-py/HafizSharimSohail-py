@@ -48,12 +48,12 @@ I believe consistency beats talent. Every day I try to learn something new. 🚀
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HafizSharimSohail-py&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+📫 Connect With Me
 <p align="center">
   <a href="hafizsharims@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-📫 Connect With Me
-
 <p align="center">
   <a href="https://github.com/HafizSharimSohail-py">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">

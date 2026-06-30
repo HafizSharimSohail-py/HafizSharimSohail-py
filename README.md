@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
-h1 align="center">Hi 👋, I'm Sharim</h1>
+<h1 align="center">Hi 👋, I'm Sharim</h1>
 
 <h3 align="center">💻 Python Learner | 🚀 Future AI Engineer</h3>
 

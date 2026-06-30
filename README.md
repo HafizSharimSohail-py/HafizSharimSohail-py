@@ -6,7 +6,8 @@
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sharim;Python+Learner+🐍;Future+AI+Engineer+🚀;Learning+Something+New+Every+Day+💻">
-</p>
+</p><img width="1983" height="793" alt="banner png" src="https://github.com/user-attachments/assets/fff5d3de-ece1-4bf6-9d6b-e7d83dc07b7b" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">

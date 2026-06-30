@@ -33,7 +33,7 @@
 - 🚀 My goal is to become an AI Engineer.
 - 📚 I love learning programming and building projects.
 
-##⚡ Fun Fact
+ ⚡ Fun Fact
 
 I believe consistency beats talent. Every day I try to learn something new. 🚀
 

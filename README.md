@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafizSharimSohail-py&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=HafizSharimSohail-py&theme=tokyonight&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizSharimSohail-py&layout=compact&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
@@ -51,6 +45,12 @@ I believe consistency beats talent. Every day I try to learn something new. 🚀
 - Data Types
 - Operators
 
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HafizSharimSohail-py&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizSharimSohail-py&layout=compact&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HafizSharimSohail-py&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>

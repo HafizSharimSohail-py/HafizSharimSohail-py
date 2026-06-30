@@ -52,7 +52,7 @@ I believe consistency beats talent. Every day I try to learn something new. 🚀
   <a href="hafizsharims@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-## 📫 Connect With Me
+📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/HafizSharimSohail-py">

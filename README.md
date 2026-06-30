@@ -18,10 +18,6 @@
 
 <h3 align="center">💻 Python Learner | 🚀 Future AI Engineer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
-</p>
-
 ## 💻 About Me
 
 - 🌱 I am currently learning Python.

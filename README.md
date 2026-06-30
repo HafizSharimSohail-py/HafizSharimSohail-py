@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="./banner.png" alt="Sharim Banner" width="100%">
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=HafizSharimSohail-py&theme=tokyonight&hide_border=false" />
 </p>
 <p align="center">

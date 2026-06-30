@@ -40,10 +40,10 @@ I believe consistency beats talent. Every day I try to learn something new. 🚀
 
 ## 📂 My Projects
 
-- Student Information System
-- Python Variables
-- Data Types
-- Operators
+- 🚀 **[Student Information System](https://github.com/HafizSharimSohail-py/Student_Information_System)**
+- 🐍 **[Python Variables](https://github.com/HafizSharimSohail-py/Py-Variables)**
+- 📘 **[Data Types](https://github.com/HafizSharimSohail-py/Data-Types)**
+- ⚙️ **[Operators](https://github.com/HafizSharimSohail-py/Operators)**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizSharimSohail-py&layout=compact&theme=tokyonight" />

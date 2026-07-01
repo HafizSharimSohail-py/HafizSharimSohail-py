@@ -60,6 +60,11 @@ I believe consistency beats talent. Every day I try to learn something new. 🚀
   </p>
 
 ⭐ Thanks for visiting my profile!
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/HafizSharimSohail-py/HafizSharimSohail-py/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 <p align="center">
   <a href="https://github.com/HafizSharimSohail-py">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">

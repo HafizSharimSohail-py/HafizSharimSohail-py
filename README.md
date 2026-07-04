@@ -42,8 +42,13 @@ I believe consistency beats talent. Every day I try to learn something new. 🚀
 - 📘 **[Data Types](https://github.com/HafizSharimSohail-py/Data-Types)**
 - ⚙️ **[Operators](https://github.com/HafizSharimSohail-py/Operators)**
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizSharimSohail-py&layout=compact&theme=tokyonight" />
+</p> -->
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HafizSharimSohail-py&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />

@@ -49,24 +49,24 @@ I believe consistency beats talent. Every day I try to learn something new. 🚀
   <img src="https://komarev.com/ghpvc/?username=HafizSharimSohail-py&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-📫 Connect With Me
+## 📫 Connect With Me
+
 <p align="center">
-  <a href="hafizsharims@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:hafizsharims@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/HafizSharimSohail-py">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-  </p>
+</p>
 
 ⭐ Thanks for visiting my profile!
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://github.com/HafizSharimSohail-py/HafizSharimSohail-py/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-<p align="center">
-  <a href="https://github.com/HafizSharimSohail-py">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </p>

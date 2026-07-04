@@ -51,18 +51,23 @@ I believe consistency beats talent. Every day I try to learn something new. 🚀
 
 <h2 align="center">📫 Connect With Me</h2>
 
-<p align="center">
-  <a href="mailto:hafizsharims@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-  </a>
+<table align="center">
+<tr>
+<td align="center">
+<a href="mailto:hafizsharims@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+</td>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<td width="20"></td>
 
-  <a href="https://github.com/HafizSharimSohail-py">
-    <img src="https://skillicons.dev/icons?i=github" width="50" />
-  </a>
-</p>
-
+<td align="center">
+<a href="https://github.com/HafizSharimSohail-py">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+</td>
+</tr>
+</table>
 ⭐ Thanks for visiting my profile!
 
 <h2 align="center">🐍 Contribution Snake</h2>
